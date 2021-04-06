@@ -1,0 +1,15 @@
+{
+  "name": "shopify-schema",
+  "version": "1.0.0",
+  "description": "Rando script to grab shopify GraphQL schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^15.5.0",
+    "node-fetch": "^2.6.1"
+  }
+}
