@@ -1,7 +1,7 @@
 {
-  "name": "shopify-schema",
+  "name": "graphql-schema-grabber",
   "version": "1.0.0",
-  "description": "Rando script to grab shopify GraphQL schema",
+  "description": "Rando script to grab GraphQL schema for Postman",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
